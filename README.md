@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/devjenniferds" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:jenniferdsbaumgart@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<hr>
+<!-- <hr>
 <div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jenniferdsbaumgart&show_icons=true&count_private=true&theme=vue-dark"  height="160em">
