@@ -36,8 +36,16 @@ Here are some ideas to get you started:
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=jenniferdsbaumgart&show_icons=true&theme=bear" width = 400>
 </p>
+<picture>
   <source media="(prefers-color-scheme: dark)"  
    srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferdsbaumgart&layout=compact&theme=vue-dark" height="160em"/>
+  
+  <source media="(prefers-color-scheme: light)"  
+   srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferdsbaumgart&layout=compact&theme=vue" height="160em"/>
+  
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferdsbaumgart&layout=compact&theme=vue-dark" alt="Imagem 2"  height="160em"/>
+  
+</picture> 
 <br>
 <p>"<em>Any sufficiently advanced technology is indistinguishable from magic</em>”. - Arthur C. Clarke</p>
 <!-- <hr>
