@@ -33,6 +33,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/devjenniferds" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:jenniferdsbaumgart@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=jenniferdsbaumgart&show_icons=true&theme=bear" width = 400>
+</p>
 <br>
 <p>"<em>Any sufficiently advanced technology is indistinguishable from magic</em>”. - Arthur C. Clarke</p>
 <!-- <hr>
