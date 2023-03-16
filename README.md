@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📆 I'm 28 years old.
+- 📆 I'm 29 years old.
 - 💻 I'm studying Software Development
 - 🌱 I’m currently learning learning JavaScript
 - ⚡ Fun fact: I changed from chemical elements to programming codes
