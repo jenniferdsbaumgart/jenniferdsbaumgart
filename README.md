@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 - 📆 I'm 29 years old.
 - 💻 I'm studying Software Development
-- 🌱 I’m currently learning learning JavaScript
-- ⚡ Fun fact: I changed from chemical elements to programming codes
+- 🌱 I’m currently learning learning JavaScript and ReactJS
+- ⚡ Fun fact: I changed from chemical elements to programming components
 <hr>
 <div style="display: inline_block">
   <img align="center" alt="Jenny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
