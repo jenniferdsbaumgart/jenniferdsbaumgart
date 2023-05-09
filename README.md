@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📆 I'm 29 years old.
-- 💻 I'm studying Software Development
+- 💻 I'm studying Web Development
 - 🌱 I’m currently learning learning JavaScript and ReactJS
 - ⚡ Fun fact: I changed from chemical elements to programming components
 <hr>
