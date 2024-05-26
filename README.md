@@ -1,4 +1,4 @@
-## Hi, I'm Jennifer!
+### Hello there! ✨
 
 <!--
 **jenniferdsbaumgart/jenniferdsbaumgart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📆 I'm 30 years old.
-- 💻 I'm studying Web Development
-- 🌱 I’m currently learning learning JavaScript and ReactJS
-- ⚡ Fun fact: I changed from chemical elements to programming components
+## ABOUT ME
+
+Jennifer. 30yo. Analysis and systems development. Migrating from chemical elements to programming codes. In addition to college, I'm part of the Young Programmer program here in my state, I also study by taking courses through DIO, OneBitCode and Udemy. I have a great fascination with different areas of programming, especially front-end development.
+
 <hr>
+
+## HARD SKILLS
+
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=7F0052)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&l&logoColor=7F0052)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=7F0052)
+![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=7F0052)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=7F0052)
+![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=7F0052)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-000.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=7F0052)
+![Figma](https://img.shields.io/badge/figma-000.svg?style=for-the-badge&logo=figma&logoColor=7F0052)
+![SASS](https://img.shields.io/badge/SASS-000.svg?style=for-the-badge&logo=SASS&logoColor=7F0052)
+![Bootstrap](https://img.shields.io/badge/bootstrap-000.svg?style=for-the-badge&logo=bootstrap&logoColor=7F0052)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=7F0052)
+![Neo4J](https://img.shields.io/badge/Neo4j-000?style=for-the-badge&logo=neo4j&logoColor=7F0052)
+![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&&logoColor=7F0052)
+<!--
 <div style="display: inline_block">
   <img align="center" alt="Jenny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jenny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -29,47 +46,38 @@ Here are some ideas to get you started:
     <img align="center" alt="Jenny-VSC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
    <img align="center" alt="Jenny-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
+-->
 <hr>
-<div> 
-  <a href="https://instagram.com/codingjenny" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/devjenniferds" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:jenniferdsbaumgart@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-<p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=jenniferdsbaumgart&show_icons=true&theme=bear" width = 400>
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)"  
-   srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferdsbaumgart&layout=compact&theme=vue-dark" height="160em"/>
-  
-  <source media="(prefers-color-scheme: light)"  
-   srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferdsbaumgart&layout=compact&theme=vue" height="160em"/>
-  
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferdsbaumgart&layout=compact&theme=vue-dark" alt="Imagem 2"  height="160em"/>
-  
-</picture> 
+
+### Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7F0052)](https://www.linkedin.com/in/devjenniferds/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=7F0052)](https://www.instagram.com/codingjenny/)
+[![Portifolio](https://img.shields.io/badge/Meu_Portifolio-000.svg?style=for-the-badge&logo=netlify&logoColor=7F0052)](https://jenniferds.netlify.app)
+[![Email](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=7F0052)](mailto:jenniferdsbaumgart@gmail.com)
+
+<hr>
+
+## Soft Skills
+
+![Advanced English](https://img.shields.io/badge/Advanced_English-black)
+![Productive](https://img.shields.io/badge/Productive-7F0052)
+![Determinated](https://img.shields.io/badge/Determinated-black)
+![Group Work](https://img.shields.io/badge/Group_Work-7F0052)
+![Emotional Intelligence](https://img.shields.io/badge/Emotional_Intelligence-black)
+![Proactive](https://img.shields.io/badge/Proactive-7F0052)
+![Organized](https://img.shields.io/badge/Organized-black)
+
+<hr>
+
+## GitHub Status
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jenniferdsbaumgart&layout=compact&bg_color=000&border_color=7F0052&title_color=7F0052&text_color=FFF)
+
+<hr>
+
 <br>
 <p>"<em>Any sufficiently advanced technology is indistinguishable from magic</em>”. - Arthur C. Clarke</p>
-<!-- <hr>
-<div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jenniferdsbaumgart&show_icons=true&count_private=true&theme=vue-dark"  height="160em">
-  
-  <source media="(prefers-color-scheme: light)", srcset="https://github-readme-stats.vercel.app/api?username=jenniferdsbaumgart&show_icons=true&count_private=true&theme=vue"  height="160em">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=jenniferdsbaumgart&show_icons=true&count_private=true&theme=vue-dark" alt="Imagem 1" height="160em">
-  </picture>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  
-   srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferdsbaumgart&layout=compact&theme=vue-dark" height="160em"/>
-  
-  <source media="(prefers-color-scheme: light)"  
-   srcset= "https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferdsbaumgart&layout=compact&theme=vue" height="160em"/>
-  
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferdsbaumgart&layout=compact&theme=vue-dark" alt="Imagem 2"  height="160em"/>
-  
-</picture> 
 
 
