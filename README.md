@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## ABOUT ME
 
-Jennifer. 30yo. Analysis and systems development. Migrating from chemical elements to programming codes. In addition to college, I'm part of the Young Programmer program here in my state, I also study by taking courses through DIO, OneBitCode and Udemy. I have a great fascination with different areas of programming, especially front-end development.
+Jennifer. 30yo. Web Developer. Software Developer. Migrating from chemical elements to programming codes. In addition to college, I'm part of the Young Programmer program here in my state, I also study by taking courses through DIO, OneBitCode and Udemy. I have a great fascination with different areas of programming.
 
 <hr>
 
