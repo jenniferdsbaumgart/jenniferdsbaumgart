@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## ABOUT ME
 
-Jennifer. 30yo. Web Developer. Software Developer. Migrating from chemical elements to programming codes. In addition to college, I'm part of the Young Programmer program here in my state, I also study by taking courses through DIO, OneBitCode and Udemy. I have a great fascination with different areas of programming.
+Jennifer. 30yo. Web Developer. Migrating from chemical elements to programming codes. In addition to college, I'm part of the Young Programmer program here in my state, I also study by taking courses through DIO, OneBitCode and Udemy. I have a great fascination with different areas of programming.
 
 <hr>
 
@@ -33,7 +33,6 @@ Jennifer. 30yo. Web Developer. Software Developer. Migrating from chemical eleme
 ![SASS](https://img.shields.io/badge/SASS-000.svg?style=for-the-badge&logo=SASS&logoColor=7F0052)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-000.svg?style=for-the-badge&logo=bootstrap&logoColor=7F0052)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=7F0052)
-![Neo4J](https://img.shields.io/badge/Neo4j-000?style=for-the-badge&logo=neo4j&logoColor=7F0052)
 ![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&&logoColor=7F0052)
 <!--
 <div style="display: inline_block">
