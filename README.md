@@ -1,19 +1,5 @@
 ### Hello there! ✨
 
-<!--
-**jenniferdsbaumgart/jenniferdsbaumgart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## ABOUT ME
 
 Jennifer. 31yo. Web Developer. Migrating from chemical elements to programming codes. In addition to college, I'm part of the Young Programmer program here in my state, I also study by taking courses through DIO, OneBitCode and Udemy. I have a great fascination with different areas of programming.
@@ -34,18 +20,7 @@ Jennifer. 31yo. Web Developer. Migrating from chemical elements to programming c
 ![Bootstrap](https://img.shields.io/badge/bootstrap-000.svg?style=for-the-badge&logo=bootstrap&logoColor=7F0052)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=7F0052)
 ![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&&logoColor=7F0052)
-<!--
-<div style="display: inline_block">
-  <img align="center" alt="Jenny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jenny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Jenny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Jenny-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/bXthqzD/707090-a-Lq0-Gu-Sz.png?width=676&height=676">
-    <img align="center" alt="Jenny-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jenny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Jenny-VSC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-   <img align="center" alt="Jenny-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-</div>
--->
+
 <hr>
 
 ### Conecte-se comigo
