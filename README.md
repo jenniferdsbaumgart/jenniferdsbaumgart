@@ -2,11 +2,7 @@
 
 ###
 
-<h3 align="center">Jennifer Baumgart</h3>
-
-###
-
-<h5 align="center"><i>front end developer | ux designer</i></h>
+<h4 align="center"><i>front end developer | ux designer</i></h4>
 
 ###
 
