@@ -1,57 +1,84 @@
-### Hello there! ✨
+<h1 align="center">< welcome to my github /></h1>
 
-## ABOUT ME
+###
 
-Jennifer. 31yo. Web Developer. Migrating from chemical elements to programming codes. In addition to college, I'm part of the Young Programmer program here in my state, I also study by taking courses through DIO, OneBitCode and Udemy. I have a great fascination with different areas of programming.
+<h3 align="center">Jennifer Baumgart</h3>
 
-<hr>
+###
 
-## HARD SKILLS
+<h5 align="center"><i>front end developer | ux designer</i></h>
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=7F0052)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&l&logoColor=7F0052)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=7F0052)
-![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=7F0052)
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=7F0052)
-![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=7F0052)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-000.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=7F0052)
-![Figma](https://img.shields.io/badge/figma-000.svg?style=for-the-badge&logo=figma&logoColor=7F0052)
-![SASS](https://img.shields.io/badge/SASS-000.svg?style=for-the-badge&logo=SASS&logoColor=7F0052)
-![Bootstrap](https://img.shields.io/badge/bootstrap-000.svg?style=for-the-badge&logo=bootstrap&logoColor=7F0052)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=7F0052)
-![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&&logoColor=7F0052)
+###
 
-<hr>
+<h6 align="center">From chemical elements to programming codes - I'm applying my knowledge to projects that combine theory, practice, and purpose.</h6>
 
-### Conecte-se comigo
+###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7F0052)](https://www.linkedin.com/in/devjenniferds/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=7F0052)](https://www.instagram.com/codingjenny/)
-[![Portifolio](https://img.shields.io/badge/Meu_Portifolio-000.svg?style=for-the-badge&logo=netlify&logoColor=7F0052)](https://jenniferds.netlify.app)
-[![Email](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=7F0052)](mailto:jenniferdsbaumgart@gmail.com)
+<p align="center">I'm passionate about creating meaningful and inclusive digital experiences. I'm always seeking opportunities that challenge me, connect me with inspiring people, and help me grow as a professional and as a human being. Whether working independently or as part of a team, I bring curiosity, empathy, and a continuous learning mindset to everything I do.</p>
 
-<hr>
+###
 
-## Soft Skills
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
 
-![Advanced English](https://img.shields.io/badge/Advanced_English-black)
-![Productive](https://img.shields.io/badge/Productive-7F0052)
-![Determinated](https://img.shields.io/badge/Determinated-black)
-![Group Work](https://img.shields.io/badge/Group_Work-7F0052)
-![Emotional Intelligence](https://img.shields.io/badge/Emotional_Intelligence-black)
-![Proactive](https://img.shields.io/badge/Proactive-7F0052)
-![Organized](https://img.shields.io/badge/Organized-black)
+###
 
-<hr>
+<div align="center">
+  <a href="https://www.linkedin.com/in/devjenniferds/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="jenniferdsbaumgart@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/codingjenny/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+</div>
 
-## GitHub Status
+###
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jenniferdsbaumgart&layout=compact&bg_color=000&border_color=7F0052&title_color=7F0052&text_color=FFF)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jenniferdsbaumgart&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jenniferdsbaumgart&locale=en&mode=daily&theme=synthwave&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<hr>
+###
 
-<br>
-<p>"<em>Any sufficiently advanced technology is indistinguishable from magic</em>”. - Arthur C. Clarke</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jenniferdsbaumgart/jenniferdsbaumgart/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jenniferdsbaumgart/jenniferdsbaumgart/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jenniferdsbaumgart/jenniferdsbaumgart/output/pacman-contribution-graph.svg">
+</picture>
 
+###
 
+<h6 align="center">"*Any sufficiently advanced technology is indistinguishable from magic*”. - Arthur C. Clarke</h6>
 
+###
+
+<div align="center">
+  <img height="200" src="https://i.ibb.co/84PgKSKN/Screenshot-2025-04-08-181729.png"  />
+</div>
+
+###
