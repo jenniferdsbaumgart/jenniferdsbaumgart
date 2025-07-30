@@ -1,79 +1,112 @@
-<h1 align="center">< welcome to my github /></h1>
-
-###
-
-<h4 align="center"><i>front end developer | ux designer</i></h4>
-
-###
-
-<h6 align="center">From chemical elements to programming codes - I'm applying my knowledge to projects that combine theory, practice, and purpose.</h6>
-
-###
-
-<p align="center">I'm passionate about creating meaningful and inclusive digital experiences. I'm always seeking opportunities that challenge me, connect me with inspiring people, and help me grow as a professional and as a human being. Whether working independently or as part of a team, I bring curiosity, empathy, and a continuous learning mindset to everything I do.</p>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+
+![Header](https://i.ibb.co/jvzn8dxH/LINKEDIN-CAPA-JENNIFER-BAUMGART-1.png)
+
+*From chemical elements to programming codes - I'm applying my knowledge to projects that combine theory, practice, and purpose.*
 </div>
 
-###
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/devjenniferds/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="jenniferdsbaumgart@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/codingjenny/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
+  
+![Profile Views](https://komarev.com/ghpvc/?username=jenniferdsbaumgart&color=blueviolet&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/jenniferdsbaumgart?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/jenniferdsbaumgart?style=social)
 </div>
 
-###
+## 👩‍💻 About Me
+
+**Frontend Developer** with a strong foundation in **React, Next.js, and TypeScript**, and a unique background in **Chemistry** that strengthens analytical thinking and problem‑solving skills.  
+
+**My Journey:** From laboratory experiments to coding experiments - I've transitioned from working with chemical formulas to crafting clean, efficient code. This scientific background gives me a methodical approach to debugging and a natural curiosity for understanding how things work under the hood.
+
+**Current Focus:** Building responsive, accessible web applications using modern technologies while continuously learning and growing in the tech ecosystem.
+
+**What Drives Me:** I believe technology should be a force for good. Whether working independently or as part of a team, I bring curiosity, empathy, and a continuous learning mindset to everything I do.
+
+Based in Brazil | Open to relocation  
+Passionate about **clean code**, **inclusive design**, and **continuous learning**
+
+## 🛠️ Tech Stack
+<div align="center">
+  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+</div>
+
+## 🚀 Featured Projects
+
+### VidaPlus - Healthcare Service Management
+Built and delivered a comprehensive healthcare platform MVP, from UI design to backend deployment. Features patient records, appointment scheduling, prescription management, and exam handling.
+- **Tech Stack:** Figma, React, Vite, TypeScript, Tailwind CSS, Node.js, PostgreSQL
+- **[Live Demo](https://vidaplus.vercel.app/login)** | **[Repository](https://github.com/jenniferdsbaumgart/vidaplus-healthcare-platform)**
+
+### Monicount - Finances Application
+Clean and intuitive web app for transaction tracking with AI-powered financial insights and real-time report generation.
+- **Tech Stack:** Figma, React, TypeScript, Next.js, Tailwind CSS, OpenAI API, PostgreSQL, Stripe
+- **[Live Demo](https://monicount.vercel.app/)** | **[Repository](https://github.com/jenniferdsbaumgart/monicount-fullstack-finances-app)**
+
+### Compath - The right path for your business
+AI-driven business discovery platform with gamified flows, niche analysis, and automated market reports. Full-stack MVP delivered during Web Development Programme.
+- **Tech Stack:** React, Next.js,TypeScript, Tailwind CSS, Node.js, MongoDB, Python
+- **[Repository](https://github.com/jenniferdsbaumgart/compath.ai)**
+
+> 🔍 **Currently Working On:** Building innovative projects that showcase the intersection of design and development
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jenniferdsbaumgart&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jenniferdsbaumgart&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=synthwave&hide_border=false&order=2)
+
 </div>
 
-###
+## 🌟 What I'm Up To
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jenniferdsbaumgart/jenniferdsbaumgart/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jenniferdsbaumgart/jenniferdsbaumgart/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jenniferdsbaumgart/jenniferdsbaumgart/output/pacman-contribution-graph.svg">
-</picture>
+- Working as a **Frontend Developer**, creating impactful and inclusive web applications
+- Building projects with **React**, **TypeScript**, and modern web technologies
+- Mastering **advanced frontend patterns** and performance optimization techniques
+- Collaborating on **professional dev teams** and open source projects
+-  Currently exploring **Cypress testing**, **advanced React patterns**, and **performance optimisation techniques**
+- Fun fact: My chemistry background makes me obsessed with clean, well-structured code!
 
-###
-
-<h6 align="center">"Any sufficiently advanced technology is indistinguishable from magic”. - Arthur C. Clarke</h6>
-
-###
+## 📬 Let's Connect!
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co/84PgKSKN/Screenshot-2025-04-08-181729.png"  />
+  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jenniferbaumgart.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devjenniferds/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenniferdsbaumgart@gmail.com)
+
+💬 **Always open to interesting conversations** about tech, collaborative projects, or just to exchange ideas!
+
 </div>
 
-###
+---
+<div align="center">
+  
+*"Any sufficiently advanced technology is indistinguishable from magic"* - Arthur C. Clarke
+
+  <img src="https://i.ibb.co/84PgKSKN/Screenshot-2025-04-08-181729.png" height="200" alt="Footer Image" />
+
+**Thanks for visiting! ⭐ Feel free to star any repositories you find interesting!**
+</div>
