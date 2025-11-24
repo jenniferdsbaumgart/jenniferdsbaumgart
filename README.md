@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header]([https://i.ibb.co/jvzn8dxH/LINKEDIN-CAPA-JENNIFER-BAUMGART-1.png](https://i.ibb.co/4RTyPhM1/LINKEDIN-CAPA-JENNIFER-BAUMGART.png))
+![Header](https://i.ibb.co/4RTyPhM1/LINKEDIN-CAPA-JENNIFER-BAUMGART.png)
 
 *From chemical elements to programming codes - I'm applying my knowledge to projects that combine theory, practice, and purpose.*
 </div>
@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-**Software Engineer | Applied AI | Human-centred UX | **
+Software Engineer | Applied AI | Human-centred UX
 
 ---
 
@@ -88,7 +88,7 @@ Right now, my work and side projects revolve around:
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
 
-### 🧠 AI & Data-adjacent**  
+### 🧠 AI & Data-adjacent
 - Python for scripting and data workflows  
 - Basic ML workflows with scikit-learn (e.g. KNN)  
 - LLM features with external APIs (structured outputs, simple RAG-style patterns)
@@ -124,8 +124,8 @@ Built and delivered a comprehensive healthcare platform MVP, from UI design to b
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jenniferdsbaumgart&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=synthwave&hide_border=false&order=2)
 
-</div>
 ## 📬 Let's Connect!
+</div>
 
 <div align="center">
   
