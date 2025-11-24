@@ -18,9 +18,7 @@
 
 Software Engineer | Applied AI | Human-centred UX
 
----
-
-I’m a Frontend Developer with a strong foundation in **React, Next.js and TypeScript**, and a unique background in **Chemistry** that strengthens my analytical thinking and problem-solving skills.
+I’m a Software Engineer specialising in Frontend development and Applied AI, with a strong foundation in **React, Next.js and TypeScript**, and a unique background in **Chemistry** that strengthens my analytical thinking and problem-solving skills.
 
 My journey has taken me from **laboratory experiments to coding experiments**, from working with chemical formulas to crafting clean, efficient code. This scientific background gives me a methodical approach to debugging, a respect for evidence, and a natural curiosity for understanding how things work under the hood.
 
@@ -138,12 +136,19 @@ Built and delivered a comprehensive healthcare platform MVP, from UI design to b
 </div>
 
 ---
-<div align="center">
-  
-*"Any sufficiently advanced technology is indistinguishable from magic"* - Arthur C. Clarke
+<p align="center">
+  <em>"Any sufficiently advanced technology is indistinguishable from magic" – Arthur C. Clarke</em>
+</p>
 
-  <img src="https://i.ibb.co/84PgKSKN/Screenshot-2025-04-08-181729.png" height="200" alt="Footer Image" />
+<p align="center">
+  <img 
+    src="https://i.ibb.co/84PgKSKN/Screenshot-2025-04-08-181729.png" 
+    alt="Footer Image" 
+    height="200" 
+  />
+</p>
 
-**Thanks for visiting! ⭐ Feel free to star any repositories you find interesting!**
-</div>
+<p align="center">
+  <strong>Thanks for visiting! ⭐ Feel free to star any repositories you find interesting!</strong>
+</p>
 
