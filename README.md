@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://i.ibb.co/jvzn8dxH/LINKEDIN-CAPA-JENNIFER-BAUMGART-1.png)
+![Header]([https://i.ibb.co/jvzn8dxH/LINKEDIN-CAPA-JENNIFER-BAUMGART-1.png](https://i.ibb.co/4RTyPhM1/LINKEDIN-CAPA-JENNIFER-BAUMGART.png))
 
 *From chemical elements to programming codes - I'm applying my knowledge to projects that combine theory, practice, and purpose.*
 </div>
@@ -16,16 +16,28 @@
 
 ## 👩‍💻 About Me
 
-**Frontend Developer** with a strong foundation in **React, Next.js, and TypeScript**, and a unique background in **Chemistry** that strengthens analytical thinking and problem‑solving skills.  
+**Software Engineer | Applied AI | Human-centred UX | **
 
-**My Journey:** From laboratory experiments to coding experiments - I've transitioned from working with chemical formulas to crafting clean, efficient code. This scientific background gives me a methodical approach to debugging and a natural curiosity for understanding how things work under the hood.
+---
 
-**Current Focus:** Building responsive, accessible web applications using modern technologies while continuously learning and growing in the tech ecosystem.
+I’m a Frontend Developer with a strong foundation in **React, Next.js and TypeScript**, and a unique background in **Chemistry** that strengthens my analytical thinking and problem-solving skills.
 
-**What Drives Me:** I believe technology should be a force for good. Whether working independently or as part of a team, I bring curiosity, empathy, and a continuous learning mindset to everything I do.
+My journey has taken me from **laboratory experiments to coding experiments**, from working with chemical formulas to crafting clean, efficient code. This scientific background gives me a methodical approach to debugging, a respect for evidence, and a natural curiosity for understanding how things work under the hood.
 
-Based in Brazil | Open to relocation  
-Passionate about **clean code**, **inclusive design**, and **continuous learning**
+I enjoy building **responsive, accessible web applications** and collaborating with multidisciplinary teams to turn complex requirements into intuitive interfaces.
+
+Based in **Brazil** · Open to **remote and relocation-friendly opportunities**  
+Passionate about **clean code, inclusive design and continuous learning**.
+
+## 🌟 What I’m focused on
+
+Right now, my work and side projects revolve around:
+
+- **Frontend engineering** with React, Next.js and TypeScript  
+- **Data-rich dashboards** and interfaces for complex domains  
+- **Human-centred UX** for people with neurodivergence and chronic illness  
+- Working with  **applied AI**,  from intelligent recommendations to LLM-powered features  
+- Designing experiences that are **accessible, safe and emotionally aware**, especially in health and mental health contexts
 
 ## 🛠️ Tech Stack
 
@@ -76,12 +88,12 @@ Passionate about **clean code**, **inclusive design**, and **continuous learning
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
 
-## 🚀 Featured Projects
+### 🧠 AI & Data-adjacent**  
+- Python for scripting and data workflows  
+- Basic ML workflows with scikit-learn (e.g. KNN)  
+- LLM features with external APIs (structured outputs, simple RAG-style patterns)
 
-### VidaPlus - Healthcare Service Management
-Built and delivered a comprehensive healthcare platform MVP, from UI design to backend deployment. Features patient records, appointment scheduling, prescription management, and exam handling.
-- **Tech Stack:** Figma, React, Vite, TypeScript, Tailwind CSS, Node.js, PostgreSQL
-- **[Live Demo](https://vidaplus.vercel.app/login)** | **[Repository](https://github.com/jenniferdsbaumgart/vidaplus-healthcare-platform)**
+## 🚀 Featured Projects
 
 ### Monicount - Finances Application
 Clean and intuitive web app for transaction tracking with AI-powered financial insights and real-time report generation.
@@ -93,6 +105,17 @@ AI-driven business discovery platform with gamified flows, niche analysis, and a
 - **Tech Stack:** React, Next.js,TypeScript, Tailwind CSS, Node.js, MongoDB, Python
 - **[Repository](https://github.com/jenniferdsbaumgart/compath.ai)**
 
+### Moodz – Human-centred mental health platform (pre-incubation)
+A mental health platform focused on group support, peer communities and therapist-led spaces, born from lived experience with neurodivergence and chronic illness.
+- **Tech Stack:** React, Node.js, design system in Figma
+- **[Repository]([https://github.com/jenniferdsbaumgart/compath.ai](https://github.com/jenniferdsbaumgart/moodz-plataform-mvp))**
+
+### VidaPlus - Healthcare Service Management
+Built and delivered a comprehensive healthcare platform MVP, from UI design to backend deployment. Features patient records, appointment scheduling, prescription management, and exam handling.
+- Exploring how to incorporate **responsible, privacy-aware AI** for recommendations and mood insights.
+- **Tech Stack:** Figma, React, Vite, TypeScript, Tailwind CSS, Node.js, PostgreSQL
+- **[Live Demo](https://vidaplus.vercel.app/login)** | **[Repository](https://github.com/jenniferdsbaumgart/vidaplus-healthcare-platform)**
+
 > 🔍 **Currently Working On:** Building innovative projects that showcase the intersection of design and development
 
 ## 📊 GitHub Analytics
@@ -102,16 +125,6 @@ AI-driven business discovery platform with gamified flows, niche analysis, and a
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jenniferdsbaumgart&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=synthwave&hide_border=false&order=2)
 
 </div>
-
-## 🌟 What I'm Up To
-
-- Working as a **Frontend Developer**, creating impactful and inclusive web applications
-- Building projects with **React**, **TypeScript**, and modern web technologies
-- Mastering **advanced frontend patterns** and performance optimization techniques
-- Collaborating on **professional dev teams** and open source projects
--  Currently exploring **Cypress testing**, **advanced React patterns**, and **performance optimisation techniques**
-- Fun fact: My chemistry background makes me obsessed with clean, well-structured code!
-
 ## 📬 Let's Connect!
 
 <div align="center">
@@ -133,3 +146,4 @@ AI-driven business discovery platform with gamified flows, niche analysis, and a
 
 **Thanks for visiting! ⭐ Feel free to star any repositories you find interesting!**
 </div>
+
