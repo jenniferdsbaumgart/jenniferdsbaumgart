@@ -94,7 +94,7 @@ Right now, my work and side projects revolve around:
 ## 🚀 Featured Projects
 
 ### Monicount - Finances Application
-Clean and intuitive web app for transaction tracking with AI-powered financial insights and real-time report generation.
+Monicount is a calm, low-friction finance app for people with variable income, designed around neurodivergent brains and AI-powered insights.
 - **Tech Stack:** Figma, React, TypeScript, Next.js, Tailwind CSS, OpenAI API, PostgreSQL, Stripe
 - **[Live Demo](https://monicount.vercel.app/)** | **[Repository](https://github.com/jenniferdsbaumgart/monicount-fullstack-finances-app)**
 
