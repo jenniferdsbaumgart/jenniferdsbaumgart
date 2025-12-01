@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://i.ibb.co/4RTyPhM1/LINKEDIN-CAPA-JENNIFER-BAUMGART.png)
+![Header](https://i.ibb.co/Jjhpkhz5/LINKEDIN-CAPA-JENNIFER-BAUMGART.png)
 
 *From chemical elements to programming codes - I'm applying my knowledge to projects that combine theory, practice, and purpose.*
 </div>
@@ -142,7 +142,7 @@ Built and delivered a comprehensive healthcare platform MVP, from UI design to b
 
 <p align="center">
   <img 
-    src="https://i.ibb.co/84PgKSKN/Screenshot-2025-04-08-181729.png" 
+    src="https://i.ibb.co/MyCqpVty/Screenshot-2025-04-08-181729.png" 
     alt="Footer Image" 
     height="200" 
   />
