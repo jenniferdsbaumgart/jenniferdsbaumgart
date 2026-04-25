@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://i.ibb.co/Jjhpkhz5/LINKEDIN-CAPA-JENNIFER-BAUMGART.png)
+![Header](https://i.ibb.co/DHCxHbH0/LINKEDIN-CAPA-JENNIFER-BAUMGART.png)
 
 *From chemical elements to programming codes - I'm applying my knowledge to projects that combine theory, practice, and purpose.*
 </div>
